@@ -12,7 +12,7 @@ import updatedbooking from "../testdata/updatedbooking.json" assert {type: "json
 const userauthdata = require('../testdata/userauthdata.json');
 const updatedbooking = require('../testdata/updatedbooking.json');*/
 
-describe('Restful Booker API Tests', () => {
+describe('Restfull Booker API Tests', () => {
     const baseurl = 'https://restful-booker.herokuapp.com';
     var bookingId;
     var token;
