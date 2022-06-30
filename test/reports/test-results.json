@@ -1,0 +1,270 @@
+{
+  "stats": {
+    "suites": 7,
+    "tests": 14,
+    "passes": 14,
+    "pending": 0,
+    "failures": 0,
+    "start": "2022-06-24T03:06:57.477Z",
+    "end": "2022-06-24T03:07:08.900Z",
+    "duration": 11423
+  },
+  "tests": [
+    {
+      "title": "should successfully pass the test for delete request",
+      "fullTitle": "Delete API tests using supertest should successfully pass the test for delete request",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\deleteTest.spec.js",
+      "duration": 623,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for get api with query param",
+      "fullTitle": "Get API tests using supertest should successfully pass the test for get api with query param",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\getTest.spec.js",
+      "duration": 171,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for get api without query param",
+      "fullTitle": "Get API tests using supertest should successfully pass the test for get api without query param",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\getTest.spec.js",
+      "duration": 138,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for get api with path param",
+      "fullTitle": "Get API tests using supertest should successfully pass the test for get api with path param",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\getTest.spec.js",
+      "duration": 788,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for patch request",
+      "fullTitle": "Patch API tests using supertest should successfully pass the test for patch request",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\patchTest.spec.js",
+      "duration": 443,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for post api",
+      "fullTitle": "Post API tests using supertest should successfully pass the test for post api",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\postTest.spec.js",
+      "duration": 563,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for post api",
+      "fullTitle": "Put API tests using supertest should successfully pass the test for post api",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\putTest.spec.js",
+      "duration": 437,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully create a booking",
+      "fullTitle": "Restful Booker API Tests should successfully create a booking",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\restfulbookerTest.spec.js",
+      "duration": 1081,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should fetch the booking of the provided booking id",
+      "fullTitle": "Restful Booker API Tests should fetch the booking of the provided booking id",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\restfulbookerTest.spec.js",
+      "duration": 1097,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should update the booking of the provided booking id using Put request",
+      "fullTitle": "Restful Booker API Tests should update the booking of the provided booking id using Put request",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\restfulbookerTest.spec.js",
+      "duration": 1132,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should update the firstname and lastname of booking of the provided booking id",
+      "fullTitle": "Restful Booker API Tests should update the firstname and lastname of booking of the provided booking id",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\restfulbookerTest.spec.js",
+      "duration": 1078,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should Delete the booking of the provided booking id",
+      "fullTitle": "Restful Booker API Tests should Delete the booking of the provided booking id",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\restfulbookerTest.spec.js",
+      "duration": 1069,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should show 404 status code for deleted booking id",
+      "fullTitle": "Restful Booker API Tests should show 404 status code for deleted booking id",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\restfulbookerTest.spec.js",
+      "duration": 1087,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for post api",
+      "fullTitle": "Put API tests using supertest should successfully pass the test for post api",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\XRayAPI.js",
+      "duration": 556,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "should successfully pass the test for delete request",
+      "fullTitle": "Delete API tests using supertest should successfully pass the test for delete request",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\deleteTest.spec.js",
+      "duration": 623,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for get api with query param",
+      "fullTitle": "Get API tests using supertest should successfully pass the test for get api with query param",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\getTest.spec.js",
+      "duration": 171,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for get api without query param",
+      "fullTitle": "Get API tests using supertest should successfully pass the test for get api without query param",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\getTest.spec.js",
+      "duration": 138,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for get api with path param",
+      "fullTitle": "Get API tests using supertest should successfully pass the test for get api with path param",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\getTest.spec.js",
+      "duration": 788,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for patch request",
+      "fullTitle": "Patch API tests using supertest should successfully pass the test for patch request",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\patchTest.spec.js",
+      "duration": 443,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for post api",
+      "fullTitle": "Post API tests using supertest should successfully pass the test for post api",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\postTest.spec.js",
+      "duration": 563,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for post api",
+      "fullTitle": "Put API tests using supertest should successfully pass the test for post api",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\putTest.spec.js",
+      "duration": 437,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully create a booking",
+      "fullTitle": "Restful Booker API Tests should successfully create a booking",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\restfulbookerTest.spec.js",
+      "duration": 1081,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should fetch the booking of the provided booking id",
+      "fullTitle": "Restful Booker API Tests should fetch the booking of the provided booking id",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\restfulbookerTest.spec.js",
+      "duration": 1097,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should update the booking of the provided booking id using Put request",
+      "fullTitle": "Restful Booker API Tests should update the booking of the provided booking id using Put request",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\restfulbookerTest.spec.js",
+      "duration": 1132,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should update the firstname and lastname of booking of the provided booking id",
+      "fullTitle": "Restful Booker API Tests should update the firstname and lastname of booking of the provided booking id",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\restfulbookerTest.spec.js",
+      "duration": 1078,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should Delete the booking of the provided booking id",
+      "fullTitle": "Restful Booker API Tests should Delete the booking of the provided booking id",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\restfulbookerTest.spec.js",
+      "duration": 1069,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should show 404 status code for deleted booking id",
+      "fullTitle": "Restful Booker API Tests should show 404 status code for deleted booking id",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\restfulbookerTest.spec.js",
+      "duration": 1087,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "should successfully pass the test for post api",
+      "fullTitle": "Put API tests using supertest should successfully pass the test for post api",
+      "file": "C:\\Users\\THI2201882\\source\\BiFrost\\test\\XRayAPI.js",
+      "duration": 556,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    }
+  ]
+}
