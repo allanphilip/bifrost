@@ -18,6 +18,10 @@ Validate Stack of APIS in Mulesoft architecture
 7. For  generating the junit reports,
    ## mocha test --reporter mocha-junit-reporter
 
+   npm install mochawesome mochawesome-report-generator --save-dev
+
+   npx mocha .\tests\FPS.spec.js
+
 
 /* $body = @{
 "client_id"="****************************"

@@ -1,17 +1,13 @@
-1. Create a Booking. Pass
-
-2. Save the Booking Id from create booking response -Pass
-
-3. Get Booking using the id in step 2 and compare with the create booking response. Pass
-
-4. Create Auth token method - Pass
-
-5. Update the booking dates and total price using the id in step 2 andauth token in step 4. Pass
-
-6. Assert the response of update booking - Pass
-
-7. Update the firtname and last name using the Patch request and assert the response. Pass
-
-8. Delete the booking and assert the status code and response. Pass
-
-9. Get the Booking Id which is deleted(Bookng Id from Step 2). Pass
+First script -1 Create person - FPS 
+Second script -2 Get Person restricted details-p1 
+Third script -3 update a person in fps Copy 
+Fourth script -4 Get Person restricted aliases-p2 
+Fifth script -5 POST person event SUBSCRIBED 
+Sixth script -6 Get Person restricted optins-p3 
+Seventh script -7 create a new tx in fps-Hybris 
+Eighth script -8 Returns the list of transaction related to a person
+Ninth script -9 Create transaction-PartialReturn-
+Tenth script -10 Create transaction-PartialCancel-
+Eleventh script -11 Get the updated partial values-
+Twelfth script -12 POST person event UNSUBSCRIBED - source  
+Thirteen script -13 Get Person restricted optins details-false

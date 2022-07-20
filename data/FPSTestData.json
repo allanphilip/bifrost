@@ -1,0 +1,356 @@
+[
+  {
+    "scenario": "Scenario1",
+    "transaction": "TxnItem 1",
+    "1_homestore": "aesop_ca",
+    "1_source": "Workday",
+    "1_country": null,
+
+    "3_homestore": "16001",
+    "3_country": null,
+
+    "5_entity": "email",
+    "5_entity_id": "",
+    "5_source": "Newsletter",
+
+    "7_sbs_no": 16,
+    "7_store_no": 999,
+    "7_newsource": "Hybris",
+    "7_currency": "CAD",
+    "7_shipping_method": "sameday",
+    "7_payment_method": "Card",
+    "7_status": "Processing",
+    "7_tax_type": "GST",
+    "7_isgift": true,
+
+    "10_newsource": "Hybris",
+    "10_newstatus": "Cancelled",
+    "10_newcurrency": "CAD",
+    "10_newsbs_no": 16,
+    "10_newstore_no": 999,
+    "10_isgift": false,
+    "10_qty": 2,
+    "10_taxtype": "GST"
+  },
+  {
+    "scenario": "",
+    "transaction": "TxnItem 2",
+    "1_homestore": "07001",
+    "1_source": "Workday",
+    "1_country": "CH",
+
+    "3_homestore": "aesop-ch",
+    "3_country": null,
+
+    "5_entity": "email",
+    "5_entity_id": "",
+    "5_source": "Newsletter",
+
+    "7_sbs_no": 7,
+    "7_store_no": 999,
+    "7_newsource": "Hybris",
+    "7_currency": "CHF",
+    "7_shipping_method": "express",
+    "7_payment_method": "visa",
+    "7_status": "Processing",
+    "7_tax_type": "S-CH2",
+    "7_isgift": true,
+
+    "10_newsource": "Hybris",
+    "10_newstatus": "Cancelled",
+    "10_newcurrency": "CHF",
+    "10_newsbs_no": 7,
+    "10_newstore_no": 999,
+    "10_isgift": false,
+    "10_qty": 2,
+    "10_taxtype": "S-CH2"
+  },
+  {
+    "scenario": "",
+    "transaction": "TxnItem 1",
+    "1_homestore": "",
+    "1_source": "Workday",
+    "1_country": null,
+
+    "3_homestore": "aesop_dk",
+    "3_country": "DK",
+
+    "5_entity": "email",
+    "5_entity_id": "",
+    "5_source": "Newsletter",
+
+    "7_sbs_no": 19,
+    "7_store_no": 999,
+    "7_newsource": "Hybris",
+    "7_currency": "DRR",
+    "7_shipping_method": "standard",
+    "7_payment_method": "visa",
+    "7_status": "Processing",
+    "7_tax_type": "S-DK",
+    "7_isgift": true,
+
+    "10_newsource": "SFMC",
+    "10_newstatus": "Processing",
+    "10_newcurrency": "DRR",
+    "10_newsbs_no": 19,
+    "10_newstore_no": 1,
+    "10_isgift": true,
+    "10_qty": 2,
+    "10_taxtype": "S-DK"
+  },
+  {
+    "scenario": "",
+    "transaction": "TxnItem 1",
+    "1_homestore": "12001",
+    "1_source": "Workday",
+    "1_country": null,
+
+    "3_homestore": "aesop_de",
+    "3_country": "DE",
+
+    "5_entity": "email",
+    "5_entity_id": "",
+    "5_source": "Newsletter",
+
+    "7_sbs_no": 12,
+    "7_store_no": 999,
+    "7_newsource": "Hybris",
+    "7_currency": "EUR",
+    "7_shipping_method": "standard",
+    "7_payment_method": "Offline Card EUR",
+    "7_status": "Processing",
+    "7_tax_type": "S-DE",
+    "7_isgift": true,
+
+    "10_newsource": "Hybris",
+    "10_newstatus": "Cancelled",
+    "10_newcurrency": "EUR",
+    "10_newsbs_no": 12,
+    "10_newstore_no": 2,
+    "10_isgift": true,
+    "10_qty": 2,
+    "10_taxtype": "S-DE"
+  },
+  {
+    "scenario": "",
+    "transaction": "TxnItem 1",
+    "1_homestore": "aesop_us",
+    "1_source": "Workday",
+    "1_country": "US",
+
+    "3_homestore": "06010",
+    "3_country": "US",
+
+    "5_entity": "sms",
+    "5_entity_id": "+18655455758",
+    "5_source": "Hybris",
+
+    "7_sbs_no": 6,
+    "7_store_no": 997,
+    "7_newsource": "Hybris",
+    "7_currency": "USD",
+    "7_shipping_method": "sameday",
+    "7_payment_method": "visa",
+    "7_status": "Processing",
+    "7_tax_type": "TAX",
+    "7_isgift": true,
+
+    "10_newsource": "Hybris",
+    "10_newstatus": "Cancelled",
+    "10_newcurrency": "USD",
+    "10_newsbs_no": 6,
+    "10_newstore_no": 999,
+    "10_isgift": true,
+    "10_qty": 2,
+    "10_taxtype": "TAX"
+  },
+  {
+    "scenario": "",
+    "transaction": "TxnItem 1",
+    "1_homestore": "13001",
+    "1_source": "Hybris",
+    "1_country": null,
+
+    "3_homestore": "aesop_se",
+    "3_country": null,
+
+    "5_entity": "push",
+    "5_entity_id": "p0500-7351854",
+    "5_source": "SFMC",
+
+    "7_sbs_no": 13,
+    "7_store_no": 999,
+    "7_newsource": "Hybris",
+    "7_currency": "SEK",
+    "7_shipping_method": "express",
+    "7_payment_method": "visa",
+    "7_status": "Processing",
+    "7_tax_type": "S-SE",
+    "7_isgift": true,
+
+    "10_newsource": "Hybris",
+    "10_newstatus": "Cancelled",
+    "10_newcurrency": "SEK",
+    "10_newsbs_no": 13,
+    "10_newstore_no": 999,
+    "10_isgift": true,
+    "10_qty": 1,
+    "10_taxtype": "S-SE"
+  },
+  {
+    "scenario": "",
+    "1_homestore": "03020",
+    "1_source": "Hybris",
+    "1_country": null,
+
+    "3_homestore": "03003",
+    "3_country": "FR",
+
+    "5_entity": "directmail",
+    "5_entity_id": "joe.subscribe@gmail.com",
+    "5_source": "Hybris",
+
+    "7_sbs_no": 3,
+    "7_store_no": 999,
+    "7_newsource": "Hybris",
+    "7_currency": "EUR",
+    "7_shipping_method": "standard",
+    "7_payment_method": "visa",
+    "7_status": "Processing",
+    "7_tax_type": "R-FR",
+
+    "10_newsource": "Hybris",
+    "10_newstatus": "Cancelled",
+    "10_newcurrency": "EUR",
+    "10_newsbs_no": 3,
+    "10_newstore_no": 999,
+    "10_isgift": false,
+    "10_qty": 1,
+    "10_taxtype": "F-FR"
+  },
+  {
+    "scenario": "",
+    "1_homestore": "aesop_nz",
+    "1_source": "Hybris",
+    "1_country": null,
+
+    "3_homestore": "aesop_nz",
+    "3_country": "NZ",
+
+    "5_entity": "telephonemarketing",
+    "5_entity_id": "+27287641232",
+    "5_source": "Newsletter",
+
+    "7_sbs_no": 20,
+    "7_store_no": 998,
+    "7_newsource": "Hybris",
+    "7_currency": "NZD  ",
+    "7_shipping_method": "express",
+    "7_payment_method": "Card NZD",
+    "7_status": "Processing",
+    "7_tax_type": "S-NZ",
+
+    "10_newsource": "Hybris",
+    "10_newstatus": "Cancelled",
+    "10_newcurrency": "NZD",
+    "10_newsbs_no": 20,
+    "10_newstore_no": 999,
+    "10_isgift": true,
+    "10_qty": 2,
+    "10_taxtype": "S-NZ"
+  },
+  {
+    "scenario": "",
+    "1_homestore": "aesop_au",
+    "1_source": "Hybris",
+    "1_country": "AU",
+
+    "3_homestore": "01010",
+    "3_country": null,
+
+    "5_entity": "telephonemarketing",
+    "5_entity_id": "+61397984209",
+    "5_source": "Hybris",
+
+    "7_sbs_no": 1,
+    "7_store_no": 995,
+    "7_newsource": "Hybris",
+    "7_currency": "AUD ",
+    "7_shipping_method": "sameday",
+    "7_payment_method": "visa",
+    "7_status": "Processing",
+    "7_tax_type": "TS-AU",
+
+    "10_newsource": "Hybris",
+    "10_newstatus": "Cancelled",
+    "10_newcurrency": "AUD",
+    "10_newsbs_no": 1,
+    "10_newstore_no": 996,
+    "10_isgift": true,
+    "10_qty": 2,
+    "10_taxtype": "AUD"
+  },
+  {
+    "scenario": "",
+    "1_homestore": "02001",
+    "1_source": "Hybris",
+    "1_country": null,
+
+    "3_homestore": "aesop-gb",
+    "3_country": "GB",
+
+    "5_entity": "messagingapp",
+    "5_entity_id": "4407850191414",
+    "5_source": "SFMC",
+
+    "7_sbs_no": 2,
+    "7_store_no": 999,
+    "7_newsource": "Hybris",
+    "7_currency": "GBP ",
+    "7_shipping_method": "express",
+    "7_payment_method": "visa",
+    "7_status": "Processing",
+    "7_tax_type": "S-GB",
+
+    "10_newsource": "Hybris",
+    "10_newstatus": "Cancelled",
+    "10_newcurrency": "GBP",
+    "10_newsbs_no": 2,
+    "10_newstore_no": 999,
+    "10_isgift": false,
+    "10_qty": 2,
+    "10_taxtype": "S-GB"
+  },
+
+  {
+    "scenario": "",
+    "1_homestore": "14001",
+    "1_source": "Hybris",
+    "1_country": null,
+
+    "3_homestore": "14002",
+    "3_country": "NO",
+
+    "5_entity": "email",
+    "5_entity_id": "",
+    "5_source": "Newsletter",
+
+    "7_sbs_no": 14,
+    "7_store_no": 999,
+    "7_newsource": "Hybris",
+    "7_currency": "NOK",
+    "7_shipping_method": "standard",
+    "7_payment_method": "visa",
+    "7_status": "Processing",
+    "7_tax_type": "S-NO",
+
+    "10_newsource": "Hybris",
+    "10_newstatus": "Cancelled",
+    "10_newcurrency": "NOK",
+    "10_newsbs_no": 14,
+    "10_newstore_no": 999,
+    "10_isgift": true,
+    "10_qty": 2,
+    "10_taxtype": "S-NO"
+  }
+]
